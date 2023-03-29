@@ -1,0 +1,7 @@
+khung_xanh_tieu_de
+{
+	col-sm-3
+	background-color: green;
+	border-style: solid;
+}
+.tooltip .tooltiptext {  width: 120px;  bottom: 100%;  left: 50%;   margin-left: -60px; /* Sử dụng một nửa chiều rộng (120/2 = 60), để căn giữa tooltip */}
